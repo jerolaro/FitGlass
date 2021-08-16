@@ -4,4 +4,6 @@ aan het evolueren naar een wereld met slimme apparaten die met elkaar communicer
 kader wil ik een interactieve slimme spiegel ontwerpen die de focus legt op het verbeteren van het
 fysieke en mentale welzijn van de gebruiker. 
 
-De broncode kan gedownload worden via de volgende link : https://drive.google.com/file/d/1C9-K1P4AtpFXELQWTKVC5hSziuNnSRBk/view?usp=sharing
+De broncode kan gedownload worden via de volgende links :
+Broncode link WeTransfer : https://we.tl/t-Bois93gCRp
+Broncode link Google Drive: https://drive.google.com/file/d/1p-WurhtU1eAGQBJGuf1otEhOVp6RFE9a/view?usp=sharing
